@@ -19,7 +19,11 @@ Emoji images representing each of the classes we're downloaded to serve as a mim
 
 ## Model Architecture
 
+The model consists of two parts,
 
+Face Detection and Emotion Classification
+
+Face Detection: 
 
 ## Model Results
 
